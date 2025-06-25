@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
- - export DEPLOYPATH=/home2/aiside2/public_html/repowp 
-    - /bin/cp -r * $DEPLOYPATH
